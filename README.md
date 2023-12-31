@@ -15,7 +15,7 @@ In the context of web development, "Fiber" typically refers to React Fiber, whic
 React itself is a JavaScript library for building user interfaces. It follows a component-based architecture, where the UI is divided into independent and reusable components. The core architecture involves components, state, and props. React allows developers to build scalable and maintainable web applications by managing the state and rendering efficiently.
 
 
-# React Fiber README
+
 
 
 ## Why Use React Fiber?
