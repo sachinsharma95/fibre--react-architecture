@@ -60,8 +60,6 @@ Reconciliation is the process by which React updates the DOM to match the curren
 
 If you find any issues or have suggestions for improvements, please feel free to contribute to the project. 
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+###  Article by Sachin Sharma  
 
-### Sachin Sharma 
